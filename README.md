@@ -1,20 +1,29 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=40&fontColor=ffffff" />
+
+
 # Hi 👋, I'm Muskan Dwivedi
 
-### 🚀 Aspiring Data Scientist | Python Developer | Machine Learning Enthusiast
+<img align="right" alt="Coding" width="350" 
+ src="https://github.com/user-attachments/assets/27c2ed52-2910-471e-9f30-f81b31380585" />
 
-<img align="right" alt="Coding" width="350" src="https://share.google/I6VvcLW7CVVttu2XO">
 
-🌱 Currently learning **Data Science, Machine Learning & Deep Learning**
+<h2>🚀 About Me</h2>
 
-🐍 Strong foundation in **Python Programming**
+<p align="center"> Hi 👋, I'm <strong>Muskan Dwivedi</strong>, a dedicated and enthusiastic college student currently pursuing a <strong>Bachelor of Technology (B.Tech) in Data Science</strong>. I am passionate about transforming data into meaningful insights and exploring <strong>Data Analytics</strong>, <strong>Machine Learning</strong>, and <strong>Artificial Intelligence</strong>. With a strong foundation in <strong>Python</strong>, <strong>SQL</strong>, <strong>NumPy</strong>, <strong>Pandas</strong>, and data visualization tools, I continuously enhance my skills through projects and hands-on learning. My goal is to leverage data-driven solutions to solve real-world problems and build a successful career as a <strong>Data Scientist</strong> and <strong>Data Analyst</strong>. </p>
 
-📊 Skilled in **NumPy, Pandas, Matplotlib, Seaborn**
+<h2>🌱 Currently Working On</h2>
 
-🤖 Interested in **Machine Learning, AI & Data Analytics**
+<ul>
+    <li>🔭 Currently working on Python-based projects and data analysis applications.</li>
+    <li>🌱 Learning Advanced Python, Machine Learning, Flask, and SQL.</li>
+    <li>📊 Exploring Data Analytics, Data Visualization, and Business Intelligence.</li>
+    <li>🤖 Building a strong foundation in Artificial Intelligence and Machine Learning.</li>
+    <li>💡 Developing real-world projects to enhance technical and problem-solving skills.</li>
+    <li>🎯 Focused on becoming a skilled Data Analyst and Data Scientist.</li>
+</ul>
 
-💻 Building projects to strengthen problem-solving skills
 
-📚 Always learning new technologies and improving my coding skills
+
 
 ---
 
@@ -104,3 +113,7 @@ For data cleaning, visualization, and insights generation.
 ---
 
 ### ✨ "Learning something new every day and turning data into insights."
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=120&section=footer"/>
