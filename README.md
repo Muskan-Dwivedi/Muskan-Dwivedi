@@ -6,11 +6,14 @@
 
 # Hi 👋, I'm Muskan Dwivedi
 
+</div>
+
+<h2>🚀 About Me</h2>
+
 <img align="right" alt="coding" width="300" 
  src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 
-<h2>🚀 About Me</h2>
 
 <p align="center"> Hi 👋, I'm <strong>Muskan Dwivedi</strong>, a dedicated and enthusiastic college student currently pursuing a <strong>Bachelor of Technology (B.Tech) in Data Science</strong>. I am passionate about transforming data into meaningful insights and exploring <strong>Data Analytics</strong>, <strong>Machine Learning</strong>, and <strong>Artificial Intelligence</strong>. With a strong foundation in <strong>Python</strong>, <strong>SQL</strong>, <strong>NumPy</strong>, <strong>Pandas</strong>, and data visualization tools, I continuously enhance my skills through projects and hands-on learning. My goal is to leverage data-driven solutions to solve real-world problems and build a successful career as a <strong>Data Scientist</strong> and <strong>Data Analyst</strong>. </p>
 
