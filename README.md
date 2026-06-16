@@ -86,17 +86,19 @@ For data cleaning, visualization, and insights generation.
 
 ## 📈 GitHub Stats
 
-![Garima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Garima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muskan-Dwivedi&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muskan-Dwivedi&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Muskan-Dwivedi&theme=tokyonight)
 
 ---
+<h2>🏆 GitHub Trophies</h2> 
+
 
 ## 🎯 Current Goals
 
