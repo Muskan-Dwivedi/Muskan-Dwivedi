@@ -1,10 +1,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=40&fontColor=ffffff" />
 
+<div align="center">
+ 
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;Machine+Learning+Learner;Python+Developer;Building+Projects+Every+Day+🚀" />
 
 # Hi 👋, I'm Muskan Dwivedi
 
-<img align="right" alt="Coding" width="250" 
- src="https://github.com/user-attachments/assets/27c2ed52-2910-471e-9f30-f81b31380585" />
+<img align="right" alt="coding" width="300" 
+ src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 
 <h2>🚀 About Me</h2>
