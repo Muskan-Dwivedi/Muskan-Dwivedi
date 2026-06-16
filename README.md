@@ -3,7 +3,7 @@
 
 # Hi 👋, I'm Muskan Dwivedi
 
-<img align="right" alt="Coding" width="350" 
+<img align="right" alt="Coding" width="300" 
  src="https://github.com/user-attachments/assets/27c2ed52-2910-471e-9f30-f81b31380585" />
 
 
