@@ -105,6 +105,17 @@ For data cleaning, visualization, and insights generation.
 ---
 <h2>🏆 GitHub Trophies</h2> 
 
+---
+## 🌱 Current Learning Journey
+
+```text
+Python               ██████████ 100%
+Pandas               █████████░  90%
+NumPy                ████████░░  80%
+SQL                  ███████░░░  70%
+Machine Learning     ██████░░░░  60%
+```
+---
 
 ## 🎯 Current Goals
 
