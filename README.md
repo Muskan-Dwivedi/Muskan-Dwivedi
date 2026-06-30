@@ -160,6 +160,18 @@ For data cleaning, visualization, and insights generation.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Muskan-Dwivedi&theme=tokyonight)
 
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muskan-Dwivedi&theme=tokyo-night" width="95%" />
+
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Muskan-Dwivedi&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+
+</p>
+
 ---
 <h2>🏆 GitHub Trophies</h2> 
 
