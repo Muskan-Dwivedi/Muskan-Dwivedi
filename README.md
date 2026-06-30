@@ -4,8 +4,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;Machine+Learning+Learner;Python+Developer;Building+Projects+Every+Day+🚀" />
 
-<div align="center">
- 
+
+
 # Hi 👋, I'm Muskan Dwivedi
 
 </div>
