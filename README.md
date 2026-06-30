@@ -76,7 +76,7 @@
 
 ---
 
-## 📂 Featured Projects
+## 📂 Key task:
 
 ### 🏧 ATM System
 A Python-based ATM simulation project implementing:
@@ -99,6 +99,52 @@ Using:
 - Seaborn
 
 For data cleaning, visualization, and insights generation.
+
+
+---
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table>
+<tr>
+<td width="50%">
+
+### 📈 Loan Approval Prediction
+✔️ Developed a Machine Learning model to predict loan approval decisions using applicant information and financial history.
+
+### 🏥 Medical Health Prediction
+✔️ Built predictive healthcare models to analyze medical datasets and assist in early disease prediction using Python & ML.
+
+### 🏍️ Bike Sales Data Analysis
+✔️ Explored customer purchasing behavior, sales trends, and age-group analysis with Pandas, Matplotlib, and Seaborn.
+
+### 💻 Laptop Price Analysis
+✔️ Analyzed laptop specifications and pricing data to identify the major factors influencing market prices.
+
+</td>
+
+<td width="50%">
+
+### 😊 Customer Satisfaction Analysis
+✔️ Examined customer feedback data to discover insights that improve customer experience and business performance.
+
+### 📊 Data Analysis Dashboard
+✔️ Created interactive visualizations and analytical dashboards to transform raw data into meaningful business insights.
+
+### 🐍 Python OOP Collection
+✔️ Implemented real-world Object-Oriented Programming concepts through practical examples and mini projects.
+
+### 🤖 Technologies Used
+`Python` • `Machine Learning` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Scikit-learn` • `Flask`
+
+</td>
+</tr>
+</table>
+
+---
+
+<p align="center">
+  <b>💡 Passionate about solving real-world problems through Machine Learning, Data Science, and Python Development.</b>
+</p>
 
 ---
 
