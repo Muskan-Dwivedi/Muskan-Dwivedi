@@ -1,8 +1,21 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=40&fontColor=ffffff" />
 
 <div align="center">
- 
+
+
+ <div align="center">
+
+
+
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data%20Science-00C853?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6D00?style=for-the-badge)
+![Analytics](https://img.shields.io/badge/Data%20Analytics-8E24AA?style=for-the-badge)
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;Machine+Learning+Learner;Python+Developer;Building+Projects+Every+Day+🚀" />
+
+
 
 # Hi 👋, I'm Muskan Dwivedi
 
