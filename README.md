@@ -92,7 +92,7 @@ For data cleaning, visualization, and insights generation.
 
 ## 📈 GitHub Stats
 
-![Garima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muskan-Dwivedi&show_icons=true&theme=tokyonight)
+![Muskan,s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muskan-Dwivedi&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muskan-Dwivedi&layout=compact&theme=tokyonight)
 
